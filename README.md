@@ -1,3 +1,12 @@
+## Template repo for React
+It has the following packages pre-installed
+- all packages with Create-React-App
+- react-router-dom
+- Prettier
+- Husky
+- Lint-Staged
+- All connections between Lint, Prettier and Husky.
+
 ## Available Scripts
 
 In the project directory, you can run:
