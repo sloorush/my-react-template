@@ -2,6 +2,8 @@
 
 Made for ease of access in starting a react app, the config takes around 15-20 mins everytime! This will help avoid that.
 
+## Packages Installed
+
 It has the following packages pre-installed
 - All packages with Create-React-App
 - React-router-dom
@@ -36,7 +38,7 @@ All Dependencies-
     }
     </pre>
 
-## Github Templates
+## GitHub Templates
 It also includes PR and Issue templates for github.
 Refer to the article for guidelines about the github templates I have used.
 
