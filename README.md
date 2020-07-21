@@ -5,7 +5,7 @@ It has the following packages pre-installed
 - Prettier
 - Husky
 - Lint-Staged
-- All connections between Lint, Prettier and Husky.
+- All plugins for React, Lint, Prettier and Husky.
 
 All Dependencies- 
     <pre>
