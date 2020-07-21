@@ -36,6 +36,11 @@ All Dependencies-
     }
     </pre>
 
+## Github Templates
+It also includes PR and Issue templates for github.
+Refer to the article for guidelines about the github templates I have used.
+
+[Github workflow blog from dev.to](https://dev.to/jorenrui/a-look-into-how-i-manage-my-personal-projects-my-git-github-workflow-1e7h)
 
 ## Available Scripts
 
