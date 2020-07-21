@@ -3,8 +3,8 @@
 Made for ease of access in starting a react app, the config takes around 15-20 mins everytime! This will help avoid that.
 
 It has the following packages pre-installed
-- all packages with Create-React-App
-- react-router-dom
+- All packages with Create-React-App
+- React-router-dom
 - Prettier
 - Husky
 - Lint-Staged
